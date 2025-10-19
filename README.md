@@ -60,7 +60,7 @@ NIM : 1313624025
 1. Ricky Darmawan
 
 # Students (the person you taught to complete the assignments)
-1. Ricky Darmawan
+1. 
 
 # AI Assistance
 AI Tools: Gemini
